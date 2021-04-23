@@ -1,0 +1,9 @@
+*.user
+code/3rdparty/NIM_Duilib_Framework/libs/
+code/bin/contactListHook_d.dll
+code/bin/injectcore_d.lib
+code/bin/injector_d.exe
+code/bin/injectordll_d.dll
+code/bin/logHook_d.dll
+code/bin/loginQRCode_d.dll
+code/bin/recvMsgHook_d.dll
